@@ -1,0 +1,29 @@
+.light {
+    background-color: white;
+    color: rgb(0, 0, 0);
+}
+
+.dark {
+    background-color: #000000;
+    color: white;
+}
+
+.Theme {
+    text-align: center;
+    padding: 10px;
+}
+
+button {
+    padding: 10px 10px;
+    margin-top: 15px;
+    font-size: 10px;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+    background-color: #fdcf01f6;
+    color: white;
+}
+
+button:hover {
+    background-color: #fdcf01f6;
+}
